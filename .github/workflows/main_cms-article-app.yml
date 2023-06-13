@@ -58,6 +58,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'udacitywebapp'
+          app-name: 'udacitywebapp2'
           slot-name: 'production'
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_b5daa54763f6451d98ea0285839104e8 }}
