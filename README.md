@@ -2,7 +2,7 @@
 
 This project is a Python web application built using Flask. The user can log in and out and create/edit articles. An article consists of a title, author, and body of text stored in an Azure SQL Server along with an image that is stored in Azure Blob Storage. You will also implement OAuth2 with Sign in with Microsoft using the `msal` library, along with app logging.
 
-[Prod website](https://udacitywebapp2.azurewebsites.net/)
+[Prod website](https://udacitywebserver.azurewebsites.net/)
 
 ## Log In Credentials for FlaskWebProject
 
